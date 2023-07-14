@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    background-color: #d3d3d3;
+    color: aliceblue;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  footer {
+    flex-shrink: 0;
+  }
+  
